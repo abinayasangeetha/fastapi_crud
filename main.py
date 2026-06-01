@@ -1,3 +1,4 @@
+print("Hello Git")
 from fastapi import FastAPI
 
 app = FastAPI()
