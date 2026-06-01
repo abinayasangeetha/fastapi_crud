@@ -1,4 +1,3 @@
-print("Hello")
 from fastapi import FastAPI
 
 app = FastAPI()
